@@ -1,3 +1,4 @@
 05/03/2019   V1.3.5
 Release the first firmware
-
+07/02/2019   V1.3.6
+Fix the bug of mean calculation
